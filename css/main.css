@@ -1,0 +1,78 @@
+body,
+h1,
+h2,
+h3 {
+ font-family: 'Ubuntu', sans-serif;
+}
+
+.heading,
+.subheading,
+.video,
+.statistics,
+.order,
+.social {
+  text-align: center;
+}
+
+.subheading {
+  margin-bottom:30px;
+}
+
+h3 {
+  font-size:32px;
+  margin-top:0;
+}
+
+.statistics h3,
+.statistics p {
+  margin-bottom:0;
+  padding-bottom:0;
+}
+
+.pitch,
+.section {
+  margin-bottom:30px;
+}
+
+.actions > div {
+  background-color:#343434;
+  color:#fff;
+  padding:25px 5%;
+}
+
+.actions .row {
+  margin-bottom:25px;
+}
+
+.actions .progress {
+  margin-bottom:0;
+}
+
+.actions .social {
+  margin-bottom:20px;
+}
+
+.btn.btn-facebook {
+  margin-right:5px;
+}
+
+.btn.btn-facebook,
+.btn.btn-twitter,
+.btn.btn-facebook:hover,
+.btn.btn-twitter:hover {
+  border:0;
+}
+
+.footer {
+  text-align:center;
+  margin-bottom:50px;
+}
+
+.footer p {
+  font-size:11px;
+  color:#ccc;
+}
+
+.footer a {
+  color:#ccf;
+}
